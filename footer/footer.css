@@ -1,0 +1,28 @@
+.footer{
+    width: 1300px;
+    height: 40px;
+    background-color: rgb(56, 55, 55);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2px;
+    color: white;
+}
+
+.f1{
+    width: 300px;
+    height: 25px;
+    background-color: gray;
+}
+
+.f2{
+    width: 300px;
+    height: 25px;
+    background-color: gray;
+} 
+
+.f3{
+    width: 300px;
+    height: 25px;
+    background-color: gray;
+}

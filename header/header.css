@@ -1,0 +1,32 @@
+.header{
+    width: 1300px;
+    height: 40px;
+    background-color: rgb(12, 187, 65);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2px;
+    color: white;
+}
+
+.bi{
+    width: 300px;
+    height: 25px;
+    background-color: rgb(7, 107, 37);
+}
+
+.h{
+    width: 300px;
+    height: 25px;
+    background-color: rgb(7, 107, 37);
+}
+
+.be{
+    width: 300px;
+    height: 25px;
+    background-color: rgb(7, 107, 37); 
+}
+
+
+
+
